@@ -100,3 +100,4 @@ public class kalk {
 	}
 	}
 }
+//sekian dari saya 
